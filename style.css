@@ -1,0 +1,147 @@
+html {
+    background-color: #E3DBD3;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #E3DBD3;
+
+}
+
+nav {
+    background-color: #D8D0C4;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+    margin: 30px;
+    padding: 10px;
+    font-family: system-ui;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: white;
+}
+
+.menu {
+    display: flex;
+    margin:0 auto;
+    width: 1280px;
+}
+
+.section-menu {
+    width: 350px;
+    height: 350px;
+}
+
+h2 {
+    text-align: center;
+    font-family: system-ui;
+}
+
+.reviews {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.review img {
+    border-radius: 200px;
+    width: 50px;
+    height: 50px;
+    opacity: 0.5;
+}
+
+.review {
+    display: flex;
+    align-items: center;
+}
+
+main a {
+    text-decoration: none;
+    color: black;
+    float: right;
+    font-family: system-ui;
+    font-weight: bold;
+    
+}
+
+main a:hover {
+    color: white;
+}
+
+img {
+    border-radius: 24px;
+    width: 157px;
+    height: 153px;
+}
+
+footer {
+    background-color: #D8D0C4;
+    height: 105px;
+}
+
+h1 {
+    font-family: system-ui;
+}
+
+.kavaua {
+    text-align: center;
+}
+
+p {
+    font-family: system-ui;
+}
+
+ul {
+    font-family: system-ui;
+}
+
+h3 {
+    font-family: system-ui;
+}
+
+.number{
+    color: black;
+}
+
+.number:hover{
+    color: white;
+}
+
+.coffee {
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 85px;
+    height: 85px;
+    border-radius: 25px;
+}
+
+.reviews {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    width: 500px; 
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+footer {
+    padding: 20px 0;
+}
